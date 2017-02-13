@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1004]C:\Users\Sai\Documents\Visual Studio 2015\Projects\Dec12NunitProject\Dec12NunitProject\bin\Debug\Dec12NunitProject.dll</TopNode>
+  <SelectedNode>[0-1001]Dec12NunitProject.day21.Constructors.TestMethod</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]C:\Users\Sai\Documents\Visual Studio 2015\Projects\Dec12NunitProject\Dec12NunitProject\bin\Debug\Dec12NunitProject.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]Dec12NunitProject" Expanded="true" />
+    <Node UniqueName="[0-1007]Dec12NunitProject.day20" Expanded="true" />
+    <Node UniqueName="[0-1002]Dec12NunitProject.day20.AjaxTesting" Expanded="true" />
+    <Node UniqueName="[0-1006]Dec12NunitProject.day21" Expanded="true" />
+    <Node UniqueName="[0-1000]Dec12NunitProject.day21.Constructors" Expanded="true" />
+  </Nodes>
+</VisualState>

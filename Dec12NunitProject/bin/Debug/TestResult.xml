@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Sai\Documents\Visual Studio 2015\Projects\Dec12NunitProject\Dec12NunitProject\bin\Debug\Dec12NunitProject.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-01-17" time="19:18:03">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="SAI-PC" user="Sai" user-domain="Sai-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Sai\Documents\Visual Studio 2015\Projects\Dec12NunitProject\Dec12NunitProject\bin\Debug\Dec12NunitProject.dll" executed="True" result="Success" success="True" time="0.067" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Dec12NunitProject" executed="True" result="Success" success="True" time="0.056" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="day21" executed="True" result="Success" success="True" time="0.056" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="Constructors" executed="True" result="Success" success="True" time="0.054" asserts="0">
+                <results>
+                  <test-case name="Dec12NunitProject.day21.Constructors.TestMethod" executed="True" result="Success" success="True" time="0.025" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
